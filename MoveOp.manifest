@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"author":	"MaestroFusion360",
+	"description":	{
+		"":	"Fixes locked operation order after Import CAM Data + Break Link. Adds Move Up/Down buttons for reordering within one Setup"
+	},
+	"version":	"1.0.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows",
+	"editEnabled":	true,
+	"iconFilename":	"icon.svg"
+}
